@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sourses/image/close.png</file>
+        <file>sourses/image/background.jpg</file>
+        <file>sourses/image/min.png</file>
+        <file>sourses/image/Title.png</file>
+        <file>sourses/image/password.png</file>
+        <file>sourses/image/user.png</file>
+        <file>sourses/mainImage/colorVarious2.jfif</file>
+        <file>sourses/mainImage/bookIcon.png</file>
+        <file>sourses/qss/Style.qss</file>
+        <file>sourses/qss/Style _2.qss</file>
+        <file>sourses/image/pushdown.png</file>
+        <file>sourses/image/pushdown2.png</file>
+        <file>sourses/image/pushDown3.png</file>
+        <file>sourses/image/Manager.png</file>
+        <file>sourses/image/success.png</file>
+    </qresource>
+</RCC>
